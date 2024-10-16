@@ -1,0 +1,24 @@
+name: my_flutter_app
+description: A new Flutter project.
+
+# Specifică versiunea SDK necesară
+environment:
+  sdk: '^3.5.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  intl: ^0.18.0
+  http: ^1.2.2  # Am actualizat versiunea http la una compatibilă
+  xml: ^6.1.0  # Adaugă pachetul xml pentru parsarea și manipularea fișierelor XML
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/img1.png
+    - images/img.png
