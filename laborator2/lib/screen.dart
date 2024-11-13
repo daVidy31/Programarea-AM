@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:lab2mobile/widgets/barbershop_card.dart';
-import 'package:lab2mobile/widgets/barbershop_card_extend.dart';
-import 'package:lab2mobile/widgets/see_all_button.dart';
+import 'package:lab2mobile/widgets/card.dart';
+import 'package:lab2mobile/widgets/card-extend.dart';
+import 'package:lab2mobile/widgets/all.dart';
 import 'package:lab2mobile/widgets/user_profile.dart';
-import 'package:lab2mobile/widgets/search_bar.dart' as custom;
+import 'package:lab2mobile/widgets/search.dart' as custom;
 //importBookingCard
-import '../widgets/booking_card.dart';
+import '../widgets/booking.dart';
 import '../models/user.dart';
-import '../utils/static_data.dart';
+import '../utils/static.dart';
 
 class HomeScreen extends StatefulWidget {
   @override

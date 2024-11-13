@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/labor1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/labor1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/labor1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/laborator2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/laborator2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/laborator2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/laborator34/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/laborator34/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/laborator34/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tesst/pam/lab1/lab1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/tesst/pam/lab1/lab1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tesst/pam/lab1/lab1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tesst/pam/lab2mobile/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/tesst/pam/lab2mobile/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tesst/pam/lab2mobile/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tesst/pam/lab3mobile/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/tesst/pam/lab3mobile/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tesst/pam/lab3mobile/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
